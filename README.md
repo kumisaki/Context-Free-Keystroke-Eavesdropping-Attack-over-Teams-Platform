@@ -5,9 +5,15 @@ The raw keystroke audios were collected in mp4 format with 16000Hz sample rate. 
 
 
 - Context-Free-Keystroke-Eavesdropping-Attack-over-Teams-Platform
+  
   - Segment_MBP.zip            
-          Macbook Pro 13' 2019 Model
-          50 Groups * 28 Keys
+         
+         Macbook Pro 13' 2019 Model
+          
+         50 Groups * 28 Keys
+  
   - Segment_TP.zip 
+          
           Thinkpad P50
+          
           50 Groups * 28 Keys
